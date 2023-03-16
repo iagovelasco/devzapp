@@ -4,3 +4,7 @@
     background-color: #36A659 !important;
     color: #fff;
   }
+
+mat-icon{
+  font-family: 'Material Icons' !important;
+}
